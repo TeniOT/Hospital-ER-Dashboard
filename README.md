@@ -1,5 +1,5 @@
 ## HOSPITAL EMERGENCY ROOM DASHBOARD
-- This Dashboard summarises a sample Hospital ER dataset to create a ONE year insight of Patient Satisfaction, Average Wait time and people characeristics that visisted the ER
+This Dashboard summarises a sample Hospital ER dataset to create a ONE year insight of Patient Satisfaction, Average Wait time and people characeristics that visisted the ER
 
 ![Dashboardresize](https://github.com/TeniOT/Hospital-ER-Dashboard/assets/164643376/5b19da66-114b-4066-ac19-7eda8ca9b111)
 
